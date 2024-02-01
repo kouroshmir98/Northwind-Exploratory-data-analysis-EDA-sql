@@ -19,5 +19,6 @@ In this project I have done EDA on Northwind Data warehouse (if you don't have N
 - Q16 : Who are the top 3 employees?
 - Q17 : What are the shippers' shares?
 
-
-
+## Related projects : 
+- [Northwind ETL using SSIS](https://github.com/ali-mir98/Northwind-ETL-SSIS)
+- [Northwind dashboard using powerbi](https://github.com/ali-mir98/Northwind-dashboard-powerbi)
